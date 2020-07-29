@@ -1,0 +1,27 @@
+.all-box {
+    min-width: 400px;
+    margin: 15px 50px 15px;
+    min-height: 200px;
+
+    background: #0101;
+    border-radius: 5px;
+    box-shadow: 10px 10px 40px #000;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.all-box  button {
+    padding: 3px 5px;
+    margin-left: 10px;
+    border: none;
+}
+
+.all-box input {
+    margin: 5px 0;
+    padding: 3px;
+    
+    border: none;
+}
